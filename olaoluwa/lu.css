@@ -1,0 +1,53 @@
+body{
+background-image:url(bac.jpg);
+background-position: center 0px;
+ background-color: black;
+ font-family: helvetica;
+ margin: auto;
+ font-family: Writer;
+}
+
+@font-face {
+    font-family: veteran typewriter;
+	  src: url('Writer.ttf');
+}
+
+.hd {
+  font-family: Helvetica, sans-serif;
+    color: yellow;
+
+    font-size: 60px;
+    padding: 5px;
+    padding-left: 50px;
+    font-family: Writer;
+
+
+  }
+
+  a{
+    font-family: Helvetica, sans-serif;
+    line-height: 20px;
+    color: gray;
+    text-align: left;
+    font-size: 15px;
+
+  }
+
+  a {
+     text-decoration: none;
+  }
+
+  nav li{
+  display: inline;
+
+  margin-left: 80%;
+
+  }
+
+
+  img{
+  width: auto;
+  margin: auto;
+  padding: 4px;
+
+  }
